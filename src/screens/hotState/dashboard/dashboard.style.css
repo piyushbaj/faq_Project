@@ -1,0 +1,27 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 1000;
+}
+
+#password{
+    margin-top: 10%;
+}
+
+#buttonContainer{
+    margin-top: 10%;
+}
+
+.container {
+    display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            height: 120px;
+            width: 516px;
+}
+.btn-danger{
+    width: fit-content;
+}
